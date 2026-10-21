@@ -1,0 +1,31 @@
+customer_id,email,age,city,is_member
+C01,user1@Example.com,26.0, boston ,True
+C02,user2@Example.com,57.0,DENVER,False
+C03,user3@Example.com,26.0,Seattle,False
+C04,user4@Example.com,31.0, denver ,False
+C05,user5@Example.com,42.0, austin ,True
+C06,user6@Example.com,24.0,Denver,False
+C07,user7@Example.com,38.0,AUSTIN,True
+C08,user8@Example.com,25.0,Austin,False
+C09,user9@Example.com,38.0,DENVER,False
+C10,user10@Example.com,42.0, austin ,True
+C11,user11@Example.com,62.0, denver ,False
+C12,user12@Example.com,37.0,DENVER,True
+C13,user13@Example.com,30.0, austin ,False
+C14,user14@Example.com,47.0,Austin,False
+C15,user15@Example.com,43.0,Boston,True
+C16,user16@Example.com,58.0, denver ,False
+C17,user17@Example.com,45.0,BOSTON,False
+C18,user18@Example.com,53.0,Austin,False
+C19,user19@Example.com,22.0, denver ,True
+C20,user20@Example.com,50.0,BOSTON,True
+C21,user21@Example.com,44.0,Denver,False
+C22,user22@Example.com,63.0, boston ,True
+C23,user23@Example.com,,AUSTIN,True
+C24,user24@Example.com,31.0,Boston,True
+C25,user25@Example.com,,DENVER,False
+C26,user26@Example.com,39.0, seattle ,False
+C27,user27@Example.com,61.0,Denver,False
+C28,user28@Example.com,21.0, boston ,False
+C29,user29@Example.com,61.0,BOSTON,False
+C30,user30@Example.com,55.0, seattle ,True
